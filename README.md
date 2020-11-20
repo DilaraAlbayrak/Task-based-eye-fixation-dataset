@@ -2,8 +2,8 @@
 Eye-fixations of several viewers for different viewing tasks.
 
 ## About
-We have studied task-based saliency and free-viewing in our work. For that work, we define 3 different tasks and free-viewing as different viewing conditions. We form our content by using 2 different datasets [[1]](#1),[[2]](#2). If you use our fixation data provided here, please cite my master's thesis _'A Study of Visual Saliency for Free-viewing and Task-oriented condition'._
-
+We have studied task-based saliency and free-viewing in our work. For that work, we define 3 different tasks and free-viewing as different viewing conditions. We form our content by using 2 different datasets [[1]](#1),[[2]](#2). If you use our fixation data provided here, please cite my master's thesis _'A Study of Visual Saliency for Free-viewing and Task-oriented condition'_ and those used datasets [[1]](#1),[[2]](#2).
+ 
 For 1024x768 sized images, please use https://drive.google.com/file/d/1YiFeH_VYTpaz2vccI7UKwkCM0c8qi9Lv/view?usp=sharing.
 
 ## Dataset
